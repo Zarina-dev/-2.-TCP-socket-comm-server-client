@@ -1,3 +1,7 @@
+# READ ZARINA:  
+* Server side : Visual Studio 2019
+* Client side : Visual Studio 2022
+
 # [2. TCP socket comm] server & client
 
 ![server   client data changing flowchart](https://user-images.githubusercontent.com/61898376/151688486-68ebf8b1-8932-4181-b30f-6f72b902deea.png)
